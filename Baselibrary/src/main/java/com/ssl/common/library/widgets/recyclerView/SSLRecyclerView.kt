@@ -1,4 +1,4 @@
-package app.sslong.libs.widgets.recyclerView
+package app.ssl.libs.widgets.recyclerView
 
 import android.content.Context
 import android.support.v7.widget.LinearLayoutManager
@@ -7,9 +7,9 @@ import android.util.AttributeSet
 import android.util.Log
 import android.view.MotionEvent
 import android.view.View
-import app.sslong.libs.widgets.recyclerView.base.ILoadListener
-import app.sslong.libs.widgets.recyclerView.base.LoadMoreUnit
-import app.sslong.libs.widgets.recyclerView.base.LoadingUnit
+import app.ssl.libs.widgets.recyclerView.base.ILoadListener
+import app.ssl.libs.widgets.recyclerView.base.LoadMoreUnit
+import app.ssl.libs.widgets.recyclerView.base.LoadingUnit
 import com.ssl.common.library.widgets.recyclerView.base.IRefresh.*
 
 /**

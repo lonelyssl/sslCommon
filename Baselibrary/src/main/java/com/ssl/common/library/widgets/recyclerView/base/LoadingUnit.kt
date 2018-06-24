@@ -1,4 +1,4 @@
-package app.sslong.libs.widgets.recyclerView.base
+package app.ssl.libs.widgets.recyclerView.base
 
 import android.view.View
 import android.view.ViewTreeObserver

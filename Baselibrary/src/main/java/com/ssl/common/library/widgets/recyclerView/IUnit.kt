@@ -1,4 +1,4 @@
-package app.sslong.libs.widgets.recyclerView
+package app.ssl.libs.widgets.recyclerView
 
 /**
  * Created by long

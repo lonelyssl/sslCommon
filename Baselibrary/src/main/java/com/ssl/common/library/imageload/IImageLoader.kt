@@ -1,4 +1,4 @@
-package app.sslong.libs.imageLoad
+package app.ssl.libs.imageLoad
 
 import android.widget.ImageView
 
