@@ -3,8 +3,8 @@ package app.ssl.libs.widgets.recyclerView.base
 import android.view.View
 import android.view.ViewTreeObserver
 import android.widget.TextView
-import app.sslong.libs.widgets.recyclerView.IUnit
-import app.sslong.libs.widgets.recyclerView.IViewHolder
+import app.ssl.libs.widgets.recyclerView.IUnit
+import app.ssl.libs.widgets.recyclerView.IViewHolder
 import com.ssl.common.library.R
 import com.ssl.common.library.widgets.recyclerView.base.IRefresh
 import com.ssl.common.library.widgets.recyclerView.base.IRefresh.*
