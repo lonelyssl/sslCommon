@@ -38,7 +38,7 @@ import java.util.List;
  *         </p>
  * @com.utils.DensityUtil
  */
-public final class SSLDeviceUtil {
+public final class DeviceUtil {
 
 
     /**
@@ -340,7 +340,7 @@ public final class SSLDeviceUtil {
             totalHeight += listItem.getMeasuredHeight(); // 统计所有子项的总高度
         }
         LayoutParams params = listView.getLayoutParams();
-        params.height = totalHeight + (listView.getDividerHeight() * (listAdapter.getCount() - 1)) + listView.getPaddingBottom() + listView.getPaddingTop() + SSLDeviceUtil.dip2px(listView.getContext(), pancValue);
+        params.height = totalHeight + (listView.getDividerHeight() * (listAdapter.getCount() - 1)) + listView.getPaddingBottom() + listView.getPaddingTop() + DeviceUtil.dip2px(listView.getContext(), pancValue);
         listView.setLayoutParams(params);
     }
 

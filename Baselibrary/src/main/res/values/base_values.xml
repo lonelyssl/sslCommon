@@ -1,0 +1,31 @@
+<resources>
+
+
+    <!-- 基础字体大小 -->
+    <dimen name="base_text_big_big_size">20sp</dimen>
+    <dimen name="base_text_big_size">16sp</dimen>
+    <dimen name="base_text_size">14sp</dimen>
+    <dimen name="base_text_small_size">12sp</dimen>
+    <dimen name="base_text_small_small_size">10sp</dimen>
+
+    <!-- 基础的高度 -->
+    <dimen name="base_title_h">40dp</dimen>
+    <dimen name="base_line_h">40dp</dimen>
+
+    <!--基础背景颜色-->
+    <color name="bageGray">#666666</color>
+    <color name="bgGray">#666666</color>
+
+
+    <!-- 颜色 -->
+    <color name="base_text_color">#666666</color>
+    <color name="base_black_text_color">#000000</color>
+    <color name="base_yellow_text_color">#e65731</color>
+    <color name="base_gray_text_color">#e9e9e8</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blue">#0066FF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#666666</color>
+
+
+</resources>

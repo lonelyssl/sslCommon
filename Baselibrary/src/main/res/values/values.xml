@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="ssl_glide_circle_radius">4dp</dimen>
+
+    <!--指示器的宽高-->
+    <dimen name="ssl_viewpager_indicator_wh">10dp</dimen>
+    <dimen name="ssl_viewpager_indicator_margin_rl">2dp</dimen>
+</resources>
