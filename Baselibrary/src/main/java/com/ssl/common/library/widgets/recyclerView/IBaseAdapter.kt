@@ -1,4 +1,4 @@
-package app.ssl.libs.widgets.recyclerView
+package com.ssl.common.library.widgets.recyclerView
 
 import android.support.v7.widget.RecyclerView
 import android.view.LayoutInflater

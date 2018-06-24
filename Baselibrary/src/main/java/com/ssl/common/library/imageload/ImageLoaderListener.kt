@@ -1,4 +1,4 @@
-package app.ssl.libs.imageLoad
+package com.ssl.common.library.imageload;
 
 import android.graphics.Bitmap
 import android.widget.ImageView

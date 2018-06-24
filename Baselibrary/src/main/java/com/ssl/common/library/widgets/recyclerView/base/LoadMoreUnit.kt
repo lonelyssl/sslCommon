@@ -1,11 +1,10 @@
-package app.ssl.libs.widgets.recyclerView.base
+package com.ssl.common.library.widgets.recyclerView.base
 
 import android.view.View
 import android.widget.TextView
-import app.ssl.libs.widgets.recyclerView.IUnit
-import app.ssl.libs.widgets.recyclerView.IViewHolder
 import com.ssl.common.library.R
-import com.ssl.common.library.widgets.recyclerView.base.IRefresh
+import com.ssl.common.library.widgets.recyclerView.IUnit
+import com.ssl.common.library.widgets.recyclerView.IViewHolder
 
 /**
  * Created by long

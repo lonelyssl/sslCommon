@@ -1,5 +1,4 @@
-package app.ssl.libs.imageLoad
-
+package com.ssl.common.library.imageload;
 /**
  * Created by long
  * on 2017/12/9.

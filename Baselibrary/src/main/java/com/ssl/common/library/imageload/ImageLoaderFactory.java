@@ -24,10 +24,6 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
-import app.ssl.libs.imageLoad.IImageLoader;
-import app.ssl.libs.imageLoad.ImageConfig;
-import app.ssl.libs.imageLoad.ImageLoaderListener;
-
 /***
  * 个人图片工具类
  * @author shishaolong
